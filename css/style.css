@@ -110,6 +110,7 @@ font-size: 2vW;
 
 a {
   text-align: center;
+  position: center;
 }
 
 li.nav-item a {
@@ -134,4 +135,8 @@ li.nav-item a:visited {
 
 .mujNavbar {
   padding: 0;
+}
+
+.exmaly {
+  width: 200px;
 }
